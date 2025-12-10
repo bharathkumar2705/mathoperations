@@ -1,6 +1,6 @@
     import { Award, RefreshCw } from 'lucide-react'; //  Icon components
 import { useState } from 'react'; //  useState Hook for managing state
-import { questions } from '../../utils/questions'; //  Importing data
+import { questions } from '../../Utils/questions'; //  Importing data
 
     const PracticeQuiz = () => { //  Functional Component
     // State variables
